@@ -1,0 +1,33 @@
+_repo: Jennie-Gerhardt--A-Novel_28988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
+description: Dive into a gripping historical romance from master of naturalism Theodore
+  Dreiser. Things appear to be looking up for downtrodden maid Jennie Gerhardt when
+  she meets and falls in love with a dashing senator. However, soon after their romance
+  blossoms, her new lover is ripped away, leaving Jennie destitute and pregnant. How
+  will she make it in the world all alone?
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Unmarried mothers -- Fiction'
+- !lcsh 'Women household employees -- Fiction'
+title: 'Jennie Gerhardt: A Novel'
+url: http://www.gutenberg.org/ebooks/28988
